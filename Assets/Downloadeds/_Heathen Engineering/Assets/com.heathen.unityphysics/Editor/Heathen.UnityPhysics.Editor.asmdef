@@ -1,0 +1,22 @@
+{
+    "name": "Heathen.UnityPhysics.Editor",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.heathen.systemcore",
+            "expression": "",
+            "define": "HE_SYSCORE"
+        }
+    ],
+    "noEngineReferences": false
+}

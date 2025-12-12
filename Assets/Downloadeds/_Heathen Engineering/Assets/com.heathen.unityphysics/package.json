@@ -1,0 +1,29 @@
+{
+  "name": "com.heathen.unityphysics",
+  "displayName": "Toolkit for Unity Physics",
+  "version": "3.1.0",
+  "unity": "2021.1",
+  "author": {
+    "name": "Heathen Group",
+    "email": "support@heathen.group",
+    "url": "https://heathen.group"
+  },
+  "dependencies": {
+    "com.unity.mathematics": "1.2.5"
+  },
+  "documentationUrl": "https://kb.heathenengineering.com/assets/physkit",
+  "keywords": [],
+  "description": "Do more with Heathen's PhysKit. Includes Verlet Spring, Buoyancy tool, Force Effect tools and Heathen's Physics Math libraries.",
+  "license": "LICENSE.md",
+  "samples": 
+	[{
+		"displayName": "Example Scenes",
+		"description": "A collection of scenes demonstrating the use of toolkit features",
+		"path": "Samples~/Examples"
+	 },
+	 {
+		"displayName": "Breakable Wood Props",
+		"description": "A collection of models and prefabs configured for the breakable tool",
+		"path": "Breakable~/Wood Props"
+	 }]
+}

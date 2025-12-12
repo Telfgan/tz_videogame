@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Animations/Animations/TestHero/BaseMove/Run_Forward.anim.meta
+guid: fe214a58ce060b5478b6eeab16973803
+========
+guid: 630038b593240f34e855f404d2a7cd60
+>>>>>>>> PriestTalents2:Assets/Animations/Animations/TestHero/BaseMove/Run_Forward_Left.anim.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
