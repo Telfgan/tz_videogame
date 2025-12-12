@@ -1,0 +1,12 @@
+public class HealingPoisonBall : Talent
+{
+    public override void Enter()
+    {
+        SetActive(true);
+    }
+
+    public override void Exit()
+    {
+        SetActive(false);
+    }
+}

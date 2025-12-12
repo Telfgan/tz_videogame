@@ -1,0 +1,12 @@
+public class LightningFastPoisonSlap : Talent
+{
+    public override void Enter()
+    {
+        SetActive(true);
+    }
+
+    public override void Exit()
+    {
+        SetActive(false);
+    }
+}
