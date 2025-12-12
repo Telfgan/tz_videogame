@@ -1,0 +1,273 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf25ca78110d1b240ac9c6549f27c30d, type: 3}
+  m_Name: StateIcoDatabase_Generated
+  m_EditorClassIdentifier: 
+  Entries:
+  - State: 0
+    Icon: {fileID: 21300000, guid: ca462af3d19f7ac46b2767cf7c1d951c, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 1
+    Icon: {fileID: 21300000, guid: 48c49cf3a6d525049bc761f9f84d48c8, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 2
+    Icon: {fileID: 21300000, guid: 0f7f61a3695bc9a4eaa8f363a84a6bed, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 3
+    Icon: {fileID: 21300000, guid: 94cafd1c714d96c488b3a33d9a3c1083, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 4
+    Icon: {fileID: 21300000, guid: 4fc8c5bb98c96964bafef79982466cbf, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 5
+    Icon: {fileID: 21300000, guid: 4fc8c5bb98c96964bafef79982466cbf, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 6
+    Icon: {fileID: 21300000, guid: d7ffbfebeeae3dd4c9f7e8cc19d05276, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 7
+    Icon: {fileID: 21300000, guid: 7069ab1da634d3942b78b6161acc6ba1, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 8
+    Icon: {fileID: 21300000, guid: 31dbceb263cafaa458e7f30743b9267a, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 9
+    Icon: {fileID: 21300000, guid: 9f61b0fe030896e408af9892e60aaf5d, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 10
+    Icon: {fileID: 21300000, guid: f10f758e0902bfc4396ce889b34ccd14, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 11
+    Icon: {fileID: 21300000, guid: 893f912149befbd4980a4594fa3e744a, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 12
+    Icon: {fileID: 21300000, guid: c64f90437cfb43447842e63f78f20315, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 13
+    Icon: {fileID: 21300000, guid: 497fc8e355be5af48bb993ec3c6d117d, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 14
+    Icon: {fileID: 21300000, guid: d50c5901892c1ca49869e3c93f076995, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 15
+    Icon: {fileID: 21300000, guid: 936ef6cd753de574691e25080f950fbd, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 16
+    Icon: {fileID: 21300000, guid: ce78c19edfb2b484c929c3adedab3794, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 17
+    Icon: {fileID: 21300000, guid: 73f743452b617de4e865f7f89ba01bb1, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 18
+    Icon: {fileID: 21300000, guid: 407d28946e3e5424e9d2fa522f7489e2, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 19
+    Icon: {fileID: 21300000, guid: c2e5fa9f5294ea048ad91ea82a721379, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 20
+    Icon: {fileID: 21300000, guid: 840c426cfdccc2548b12c7fca38a27e6, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 21
+    Icon: {fileID: 21300000, guid: ca462af3d19f7ac46b2767cf7c1d951c, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 22
+    Icon: {fileID: 21300000, guid: ad21cf949ffd1354c9af7b1196ea1c83, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 23
+    Icon: {fileID: 21300000, guid: a647a44f88e0de7449680e29b2682d4b, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 24
+    Icon: {fileID: 21300000, guid: c9e058e06c95fa04fbfd12767e30935e, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 25
+    Icon: {fileID: 21300000, guid: 25ff3536eff4484439d29330c2365ed9, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 26
+    Icon: {fileID: 21300000, guid: e4d13d00d781dfe469761c28f0641fc6, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 27
+    Icon: {fileID: 21300000, guid: 8db85bf2eaf1eda48a38b28a94c1dadf, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 28
+    Icon: {fileID: 21300000, guid: 586689517d8af50448c831eb6b42ad23, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 29
+    Icon: {fileID: 21300000, guid: 7e4991e1e04622047bb6749a09522dd8, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 30
+    Icon: {fileID: 21300000, guid: 1a0a07e66c539064f9e89bb626ea33b5, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 31
+    Icon: {fileID: 21300000, guid: 69173c48d46c4714590c13c26a289c33, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 32
+    Icon: {fileID: 21300000, guid: 6a0776508e81f27499dbf13e3ce0f3e0, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 33
+    Icon: {fileID: 21300000, guid: eeaba97299ac21b449cff68f55aa72de, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 34
+    Icon: {fileID: 21300000, guid: 2b85ccf42cfbbd749958d3823f14e68a, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 35
+    Icon: {fileID: 21300000, guid: 0856882a62b3faf409614fff9c27e700, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 36
+    Icon: {fileID: 21300000, guid: 5f80cbb38ea3f9f4685ff9b351eb16fb, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 37
+    Icon: {fileID: 21300000, guid: 1769f25c7b0c5614a95a094ddfb76d45, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 38
+    Icon: {fileID: 21300000, guid: 6d4e1cf2b89c20b479a8e402dae25a03, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 39
+    Icon: {fileID: 21300000, guid: 2b4ee1b585f26ad4ca49e97994d3ed8b, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 40
+    Icon: {fileID: 21300000, guid: 893f912149befbd4980a4594fa3e744a, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 41
+    Icon: {fileID: 21300000, guid: b96ef5c2db63f7047b341f92bbe584db, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 42
+    Icon: {fileID: 21300000, guid: db8a1145e53636c4d95ed269fa1e7b7b, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 43
+    Icon: {fileID: 21300000, guid: db390ad2b7aa06e418141ca4fbbba5ca, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 44
+    Icon: {fileID: 21300000, guid: 13979068f029e09418c3af4557d6c7a3, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 45
+    Icon: {fileID: 21300000, guid: 40957c62b250799458fafb8f2403c271, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 46
+    Icon: {fileID: 21300000, guid: 64281af20a272864cad4b3a497ac16d6, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 47
+    Icon: {fileID: 21300000, guid: cc26b403e1141854d9c7068225732b6a, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 48
+    Icon: {fileID: 21300000, guid: bc00ba83595503d4b96b4ca5ff990eab, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 49
+    Icon: {fileID: 21300000, guid: 5b53cad99487f0147be177f5009be820, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 50
+    Icon: {fileID: 21300000, guid: 8af10448d79cc584bb093ac07dbd574f, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 51
+    Icon: {fileID: 21300000, guid: 9a7c0478b2a51454394162ee14c948b0, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 52
+    Icon: {fileID: 21300000, guid: df1704c08728db5419f00cb8138a2ef7, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 53
+    Icon: {fileID: 21300000, guid: 28ac766020ba79d41b1e77139a03a2e1, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 54
+    Icon: {fileID: 21300000, guid: 04732b9047ab42e479ba2d8e3d87bc46, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 55
+    Icon: {fileID: 21300000, guid: 3a8b1ba4e133b0f4a9ff7c5d2aefa933, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 56
+    Icon: {fileID: 21300000, guid: af8dd005329359d46bcd2d500f99c912, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 57
+    Icon: {fileID: 21300000, guid: 9abaa859cdccc5c41b6c730b64ae3810, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 58
+    Icon: {fileID: 21300000, guid: b0e188c000d602d4fb9e4faef638d8bc, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 59
+    Icon: {fileID: 21300000, guid: 523655bbfbe8b0b42869f25f34886283, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 60
+    Icon: {fileID: 21300000, guid: 5f3cf76348a150a4fac45482942b1000, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 61
+    Icon: {fileID: 21300000, guid: 3850a1a2b3a10fa4a8e069aa286444ac, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 62
+    Icon: {fileID: 21300000, guid: 0a99c0317cf1ef64a8da662122e28d3c, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 63
+    Icon: {fileID: 21300000, guid: d19b3aefc434e064e89c881b83a46254, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 64
+    Icon: {fileID: 21300000, guid: 9a5f4146f16b4b34b87820aa55286e72, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 65
+    Icon: {fileID: 21300000, guid: a42f881e303f5ec41ab1065e45b5b380, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 66
+    Icon: {fileID: 21300000, guid: f81139c408ab9944fb9c04f97345d1d4, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 67
+    Icon: {fileID: 21300000, guid: 7a4f972f283935c48bdee31f6ae71095, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 68
+    Icon: {fileID: 21300000, guid: 12447332fb471c641b1e0337f6cddda1, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 69
+    Icon: {fileID: 21300000, guid: 17a2790af819f5a4ba7146ec4203435c, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 70
+    Icon: {fileID: 21300000, guid: fddee238a7d50bb498a5daeb435631e9, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 71
+    Icon: {fileID: 21300000, guid: bce2307885caedf4da2d62125613e377, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 72
+    Icon: {fileID: 21300000, guid: 355bf97a03c4a2c459e2249ac463cf6c, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 73
+    Icon: {fileID: 21300000, guid: d3e6b040a00655545a641c803d557e0f, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 74
+    Icon: {fileID: 21300000, guid: 97a313d2d87bc874f8055ee747725d6f, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 75
+    Icon: {fileID: 21300000, guid: ed70eab8eacb1f840b712009eea422e3, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 76
+    Icon: {fileID: 21300000, guid: 18a436a2dc16eb24a9f5c7c559b3906d, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 77
+    Icon: {fileID: 21300000, guid: a538aa3f3c7f21744bdd9f0be36dd23a, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 78
+    Icon: {fileID: 21300000, guid: fc458b5ed8963a54b8c0a580e488887a, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 79
+    Icon: {fileID: 21300000, guid: c8385689fc7797c48887fbc6e2d7b256, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 80
+    Icon: {fileID: 21300000, guid: 90a9ed443be63484cb2aa7626543d34f, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 81
+    Icon: {fileID: 21300000, guid: e372d60187227324ba3c5de47777b41e, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 82
+    Icon: {fileID: 21300000, guid: 800d6a3333b40164288045b666cc8ef7, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 83
+    Icon: {fileID: 21300000, guid: e3fa0a58ccf6cf841a0f9605dd616d2f, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 84
+    Icon: {fileID: 21300000, guid: 765b5465876568f4e8e23fcd242b4b24, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}
+  - State: 85
+    Icon: {fileID: 21300000, guid: 7a8cf3ad5418f2f42a98961f8d4848e3, type: 3}
+    BorderColor: {r: 1, g: 1, b: 1, a: 1}

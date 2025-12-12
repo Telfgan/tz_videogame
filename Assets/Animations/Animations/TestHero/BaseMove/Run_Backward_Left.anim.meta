@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Animations/Animations/TestHero/BaseMove/Run_Backward_Left.anim.meta
+guid: cdb59a00bf874964fb9715fad47dabde
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+========
+guid: 8fb98adcc60a1104cbd060e889de5534
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 31900000
+>>>>>>>> PriestTalents2:Assets/Animations/Mask/Hand.mask.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

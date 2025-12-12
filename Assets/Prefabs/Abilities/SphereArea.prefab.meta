@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Prefabs/Abilities/SphereArea.prefab.meta
+guid: 586443d303441854fbd96bcd57e8ccc6
+========
+guid: 7b292d1ec8ca4824b833c0b5b5ebcc4d
+>>>>>>>> main:Assets/Prefabs/Abilities/Area3D.prefab.meta
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4db219e2a0b6a648befa165334af915, type: 3}
+  m_Name: GrowTree
+  m_EditorClassIdentifier: 
+  _name: TerrifyingElf
+  _description: 
+  type: 
+  _icon: {fileID: 21300000, guid: 2f99567c6f719bd44a5126e0152ab989, type: 3}
+  _iconSize: 0
+  _attributes:
+    attributesGroup:
+    - Id: 1001
+      Name: Health
+      Points: 5
+      DefaultValue: 666
+      Icon: {fileID: 0}
+      IsVisible: 1
+    - Id: 1002
+      Name: Mana
+      Points: 0
+      DefaultValue: 666
+      Icon: {fileID: 0}
+      IsVisible: 1
+    - Id: 1003
+      Name: Energy
+      Points: 0
+      DefaultValue: 500
+      Icon: {fileID: 0}
+      IsVisible: 1
+    - Id: 1004
+      Name: Rune
+      Points: 0
+      DefaultValue: 300
+      Icon: {fileID: 0}
+      IsVisible: 1
+    - Id: 1005
+      Name: Speed
+      Points: 0
+      DefaultValue: 7
+      Icon: {fileID: 0}
+      IsVisible: 0
+    - Id: 1006
+      Name: HPRegen
+      Points: 0
+      DefaultValue: 0.6
+      Icon: {fileID: 0}
+      IsVisible: 0
+    - Id: 1007
+      Name: ManaRegen
+      Points: 0
+      DefaultValue: 0.6
+      Icon: {fileID: 0}
+      IsVisible: 0
+    - Id: 1008
+      Name: EnergyRegen
+      Points: 0
+      DefaultValue: 3
+      Icon: {fileID: 0}
+      IsVisible: 0
+    - Id: 1009
+      Name: RuneRegen
+      Points: 0
+      DefaultValue: 4
+      Icon: {fileID: 0}
+      IsVisible: 0
+    - Id: 1010
+      Name: HPRegenDelay
+      Points: 0
+      DefaultValue: 1
+      Icon: {fileID: 0}
+      IsVisible: 0
+    - Id: 1011
+      Name: ManaRegenDelay
+      Points: 0
+      DefaultValue: 1
+      Icon: {fileID: 0}
+      IsVisible: 0
+    - Id: 1012
+      Name: EnergyRegenDelay
+      Points: 0
+      DefaultValue: 1
+      Icon: {fileID: 0}
+      IsVisible: 0
+    - Id: 1013
+      Name: RuneRegenDelay
+      Points: 0
+      DefaultValue: 1
+      Icon: {fileID: 0}
+      IsVisible: 0
+    - Id: 1014
+      Name: VisionRadius
+      Points: 0
+      DefaultValue: 0
+      Icon: {fileID: 0}
+      IsVisible: 0
+    - Id: 1015
+      Name: PhysicResist
+      Points: 0
+      DefaultValue: 2
+      Icon: {fileID: 0}
+      IsVisible: 0
+    - Id: 1016
+      Name: MagicResist
+      Points: 0
+      DefaultValue: 2
+      Icon: {fileID: 0}
+      IsVisible: 0
+    - Id: 1017
+      Name: MeleeEvade
+      Points: 0
+      DefaultValue: 6
+      Icon: {fileID: 0}
+      IsVisible: 0
+    - Id: 1018
+      Name: RangeEvade
+      Points: 0
+      DefaultValue: 8
+      Icon: {fileID: 0}
+      IsVisible: 0
+    - Id: 1019
+      Name: MagicEvade
+      Points: 0
+      DefaultValue: 0
+      Icon: {fileID: 0}
+      IsVisible: 0
+    - Id: 1020
+      Name: PhysicAbsorb
+      Points: 0
+      DefaultValue: 0
+      Icon: {fileID: 0}
+      IsVisible: 0
+    - Id: 1021
+      Name: MagicAbsorb
+      Points: 0
+      DefaultValue: 7
+      Icon: {fileID: 0}
+      IsVisible: 0
