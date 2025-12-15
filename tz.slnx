@@ -1,0 +1,25 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Mirror.Components.csproj" />
+  <Project Path="SimpleWebTransport.csproj" />
+  <Project Path="Mirror.Hosting.csproj" />
+  <Project Path="Mirror.csproj" />
+  <Project Path="Heathen.UnityPhysics.Examples.csproj" />
+  <Project Path="Telepathy.csproj" />
+  <Project Path="Heathen.UnityPhysics.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Unity.Mirror.CodeGen.csproj" />
+  <Project Path="Unity.PlayerPrefsEditor.Samples.SampleScene.csproj" />
+  <Project Path="kcp2k.csproj" />
+  <Project Path="Mirror.Transports.csproj" />
+  <Project Path="Mirror.Editor.csproj" />
+  <Project Path="DOTween.Modules.csproj" />
+  <Project Path="Unity.InputSystem.RebindingUI.csproj" />
+  <Project Path="Unity.PlayerPrefsEditor.Editor.csproj" />
+  <Project Path="Assembly-CSharp-firstpass.csproj" />
+  <Project Path="Mirror.Authenticators.csproj" />
+  <Project Path="EncryptionTransportEditor.csproj" />
+  <Project Path="Mirror.CompilerSymbols.csproj" />
+  <Project Path="Unity.PlayerPrefsEditor.EditorResources.csproj" />
+  <Project Path="Heathen.UnityPhysics.Editor.csproj" />
+</Solution>
